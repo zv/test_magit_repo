@@ -1,0 +1,16 @@
+This new file contains things
+
+goto previous magit section
+l	go right
+L l	open log buffer
+n	next search occurrence
+N	previous search occurrence or SVN sub-menu
+P P	push
+q	quit
+s	on a file or hunk in a diff: stage the file or hunk
++	on a hunk: increase hunk size
+-	on a hunk: decrease hunk size
+S	stage all
+TAB	on a file: expand/collapse diff
+u	on a staged file: unstage
+U	unstage all staged files
