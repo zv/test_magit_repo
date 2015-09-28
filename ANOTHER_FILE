@@ -1,0 +1,28 @@
+Commit message edition buffer
+
+In a commit message buffer press C-c C-c to commit the changes with the entered message. Pressing C-c C-k will discard the commit message.
+Key Binding	Description
+h	go left
+j	go down
+k	go up
+l	go right
+Interactive rebase buffer
+Key Binding	Description
+c	pick
+e	edit
+f	fixup
+
+
+Commit message edition buffer
+
+In a commit message buffer press C-c C-c to commit the changes with the entered message. Pressing C-c C-k will discard the commit message.
+Key Binding	Description
+h	go left
+j	go down
+k	go up
+l	go right
+Interactive rebase buffer
+Key Binding	Description
+c	pick
+e	edit
+f	fixup
